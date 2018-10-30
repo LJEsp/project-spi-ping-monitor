@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/project-spi-ping-monitor/precache-manifest.6bafe5a28aa0088937aff9c84d6c7b83.js"
+  "/project-spi-ping-monitor/precache-manifest.be6a0ec04bd9914bcc84c0ebd44d5e39.js"
 );
 
 workbox.clientsClaim();
