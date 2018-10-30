@@ -59,7 +59,6 @@ class App extends Component {
         <PingItem domain="google.com.br" />
         <PingItem domain="netflix.com" />
         <PingItem domain="google.com.hk" />
-        <PingItem domain="pornhub.com" />
         <PingItem domain="twitch.tv" />
         <PingItem domain="google.fr" />
         <PingItem domain="linkedin.com" />
@@ -82,9 +81,7 @@ class App extends Component {
         <PingItem domain="spotify.com" />
         <PingItem domain="google.pl" />
         <PingItem domain="google.co.id" />
-        <PingItem domain="xhamster.com" />
         <PingItem domain="google.com.ar" />
-        <PingItem domain="xnxx.com" url="https://www.xnxx.com" useUrl />
         <PingItem domain="google.co.th" />
         <PingItem domain="Naver.com" />
         <PingItem domain="sogou.com" />
