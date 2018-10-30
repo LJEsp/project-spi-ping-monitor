@@ -1,13 +1,13 @@
 {
-  "main.css": "/project-spi-ping-monitor/static/css/main.a2cbd961.chunk.css",
-  "main.js": "/project-spi-ping-monitor/static/js/main.f8de5591.chunk.js",
-  "main.js.map": "/project-spi-ping-monitor/static/js/main.f8de5591.chunk.js.map",
-  "static/js/1.eb8cf8ba.chunk.js": "/project-spi-ping-monitor/static/js/1.eb8cf8ba.chunk.js",
-  "static/js/1.eb8cf8ba.chunk.js.map": "/project-spi-ping-monitor/static/js/1.eb8cf8ba.chunk.js.map",
+  "main.css": "/project-spi-ping-monitor/static/css/main.dc25499d.chunk.css",
+  "main.js": "/project-spi-ping-monitor/static/js/main.1bd45aad.chunk.js",
+  "main.js.map": "/project-spi-ping-monitor/static/js/main.1bd45aad.chunk.js.map",
+  "static/js/1.e7309185.chunk.js": "/project-spi-ping-monitor/static/js/1.e7309185.chunk.js",
+  "static/js/1.e7309185.chunk.js.map": "/project-spi-ping-monitor/static/js/1.e7309185.chunk.js.map",
   "runtime~main.js": "/project-spi-ping-monitor/static/js/runtime~main.ac376b6e.js",
   "runtime~main.js.map": "/project-spi-ping-monitor/static/js/runtime~main.ac376b6e.js.map",
-  "static/css/main.a2cbd961.chunk.css.map": "/project-spi-ping-monitor/static/css/main.a2cbd961.chunk.css.map",
+  "static/css/main.dc25499d.chunk.css.map": "/project-spi-ping-monitor/static/css/main.dc25499d.chunk.css.map",
   "index.html": "/project-spi-ping-monitor/index.html",
-  "precache-manifest.be6a0ec04bd9914bcc84c0ebd44d5e39.js": "/project-spi-ping-monitor/precache-manifest.be6a0ec04bd9914bcc84c0ebd44d5e39.js",
+  "precache-manifest.191e0bccb2b1be05eda2aff1ba4a5928.js": "/project-spi-ping-monitor/precache-manifest.191e0bccb2b1be05eda2aff1ba4a5928.js",
   "service-worker.js": "/project-spi-ping-monitor/service-worker.js"
 }

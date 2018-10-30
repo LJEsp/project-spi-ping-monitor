@@ -46,10 +46,11 @@ class PingItem extends Component {
 
   render() {
     return (
-      <div>
+      <div className="ping-item">
         <a href={this.props.url} target="_blank" rel="noopener noreferrer">
           {this.props.domain}
         </a>{" "}
+
         <span
           style={
             this.state.pingState === "DOWN"
@@ -59,7 +60,6 @@ class PingItem extends Component {
         >
           {this.state.pingState}{" "}
         </span>
-        {this.state.pingData}
       </div>
     );
   }
